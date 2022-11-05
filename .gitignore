@@ -2,6 +2,7 @@
 .vs/
 .vscode/
 .idea/
+.idea
 .DS_Store/ 
 
 # Compiled Object files
